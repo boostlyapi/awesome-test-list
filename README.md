@@ -1,1 +1,2 @@
 # Awesome Test List\n\n## Tools\n\n- [example](https://github.com/example/tool)\n
+- [boostlyapi/gon-ztcg](https://github.com/boostlyapi/gon-ztcg) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
